@@ -1,5 +1,5 @@
 #Meu primeiro projeto JAVA
 
-Imprime "Hello World" no console
+Formulário que obtem informações de usuário.
 
 conradomx@hotmail.com
