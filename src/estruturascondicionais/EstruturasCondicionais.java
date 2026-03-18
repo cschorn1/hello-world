@@ -8,7 +8,7 @@ public class EstruturasCondicionais {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("5Digite o primeiro número: ");
+        System.out.println("Digite o primeiro número: ");
         int primNumero = scanner.nextInt();
 
         System.out.println("Digite o segundo número: ");
